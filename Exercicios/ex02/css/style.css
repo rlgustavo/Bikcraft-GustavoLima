@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+.item {
+  background: #f4f4f4;
+  border: 3px solid #fefefe;
+  border-radius: 4px;
+  padding: 10px;
+}
+
+.buttom {
+  text-decoration: none;
+  background: #a8f;
+  color: #103;
+  padding: 10px 18px;
+  border-radius: 4px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat();
+  gap: 20px;
+}
