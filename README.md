@@ -1,10 +1,9 @@
 # Bikcraft
-<<<<<<< HEAD
-=======
-  - Projeto feito em conjunto do Curso Origamid, prof: Andre. 👨🏿‍🎓
- 
- 
- ## Tecnologias Utilizadas
+
+- Projeto feito em conjunto do Curso Origamid, prof: Andre. 👨🏿‍🎓
+
+## Tecnologias Utilizadas
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Guhlima01-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Guhlima01-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -14,14 +13,12 @@
   
 </div>
  
- 
 
- 
- ##
- 
+
+##
+
 - Gustavo Rodrigues
 - Estudante de Jogos Digitais Frond-End | Ui & Ux Design
->>>>>>> fb8c3d75e175a10070237ab2847b2663411a2722
 
 - Projeto feito em conjunto do Curso Origamid, prof: Andre. 👨🏿‍🎓
 
