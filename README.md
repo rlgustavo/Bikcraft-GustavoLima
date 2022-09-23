@@ -1,5 +1,5 @@
-# Origamid-Html-CSS
- Curso Origamid, projeto bikcraft
+# Bikcraft
+  - Projeto feito em conjunto do Curso Origamid, prof: Andre. 👨🏿‍🎓
  
  
  ## Tecnologias Utilizadas
