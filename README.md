@@ -16,5 +16,6 @@
   
   <img align="right" alt="Rimuru" height="150" src="https://media.discordapp.net/attachments/1014513707092541513/1014513840366559242/unknown.png?width=676&height=676">
   
-  <img src="./img/imgReadME/home-png.png">
+  <a href="https://bikcraft-rlgustavo.netlify.app/"><img src="./img/imgReadME/home-png.png"></a>
+   <a href="https://bikcraft-rlgustavo.netlify.app/"><img src="./img/fotos/introducao.jpg" alt="Bikcraft"></a>
 </div>
